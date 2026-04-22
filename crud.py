@@ -84,5 +84,6 @@ def main():
         if op == "1": crear_registro()
         elif op == "5": break
 
-if __name__ == "__main__":
+if name == "main":
     main()
+    
